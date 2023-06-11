@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuziZwane
 - 👀 I’m interested in programming and software development.
 - 🌱 I’m currently learning computer science as a beginner and aws re/start.
-- 💞️ I’m looking to collaborate on django, java & cloud projects.
+- 💞️ I’m looking to collaborate on python, django, java & cloud projects.
 - 📫 you can reach me on this email ezwane158@gmail.com
 
 <!---
